@@ -1,0 +1,2 @@
+C:\Users\Project\Rapidx\Code\RapidX\RapidX\SharedLibrary\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\Project\Rapidx\Code\RapidX\RapidX\SharedLibrary\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
